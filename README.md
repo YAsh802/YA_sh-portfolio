@@ -1,1 +1,2 @@
 # YA_sh-portfolio
+Hello There, i am Yash Vichare. I am a student persuing my bachelor's in computer engineering. Being a tech enthusiast and web developer, i enjoy working on backend development of a website.
